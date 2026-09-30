@@ -1,0 +1,41 @@
+Student_ID,Name,Age,Gender,Marks,Attendance,Department
+101,Aarav,20,Male,85,92,Computer Science
+102,Bhakti,21,Female,91,88,Computer Science
+103,Riya,20,female,78,90,computer science
+104,Om,22,M,67,76,Mechanical
+105,Sneha,21,FEMALE,89,95,Mechanical
+106,Rahul,20,male,72,81,Electronics
+107,Priya,22,Female,94,93,Electronics
+108,Aditya,21,Male,,85,Civil
+109,Neha,,F,81,89,Civil
+110,Vikas,23,MALE,69,74,computer science
+111,Pooja,20,female,88,,Mechanical
+112,Karan,21,M,75,79,Electronics
+113,Anjali,22,Female,90,91,electronics
+114,Sahil,20,Male,82,87,Civil
+115,Meera,21,F,86,94,civil
+116,Akash,22,Male,71,83,Computer Science
+117,Isha,20,female,96,97,Computer Science
+118,Rohan,21,M,64,72,Mechanical
+119,Kavya,22,Female,87,90,mechanical
+120,Nikhil,23,Male,73,78,Electronics
+121,Tanvi,20,Female,92,96,Electronics
+122,Yash,21,male,68,75,Civil
+123,Aditi,22,FEMALE,84,89,Civil
+124,Harsh,20,M,79,82,Computer Science
+125,Maya,21,female,91,93,computer science
+126,Dev,22,Male,70,77,Mechanical
+127,Sakshi,20,Female,88,91,Mechanical
+128,Vivek,21,M,76,80,Electronics
+129,Nisha,22,F,83,86,Electronics
+130,Aman,23,Male,65,70,Civil
+131,Sakshi,20,Female,88,91,Mechanical
+132,Ravi,21,male,74,80,Civil
+133,Komal,22,female,89,92,Computer Science
+134,Arjun,20,M,77,84,Mechanical
+135,Simran,21,Female,93,95,Electronics
+136,Varun,22,Male,66,73,Civil
+137,Payal,20,F,85,88,computer science
+138,Manish,21,MALE,71,79,Mechanical
+139,Gauri,22,Female,90,94,Electronics
+140,Raj,20,M,80,85,Civil
